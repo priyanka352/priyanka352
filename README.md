@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEb9nq-5PXDJqJY34jY8HkmjjIizkyW60Oww&s">
+<img align="right" alt="coding" width="400" src="https://dexterdigital.co.uk/wp-content/uploads/2022/11/animation_500_l70uzcru.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka352&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka352" /> </p>
 
